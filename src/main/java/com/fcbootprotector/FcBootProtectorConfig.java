@@ -1,11 +1,11 @@
-package com.clankickprotector;
+package com.fcbootprotector;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
 @ConfigGroup("clankickprotector")
-public interface ClanKickProtectorConfig extends Config
+public interface FcBootProtectorConfig extends Config
 {
     @ConfigItem(
         keyName = "protectFriendsChat",

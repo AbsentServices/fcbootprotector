@@ -1,4 +1,5 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
-    "java.vm.args": "-ea"
+    "java.vm.args": "-ea",
+    "java.compile.nullAnalysis.mode": "automatic"
 }

@@ -1,6 +1,6 @@
-# ClanKickProtector
+# FC Boot Protector
 
-**ClanKickProtector** is a RuneLite plugin designed to prevent misclicks when moderating or hanging out in Friends Chats. It automatically filters out the "Kick" menu option unless specific criteria (like holding a modifier key) are met.
+**FC Boot Protector** is a RuneLite plugin designed to prevent misclicks when moderating or hanging out in Friends Chats. It automatically filters out the "Kick" menu option unless specific criteria (like holding a modifier key) are met.
 
 ---
 
@@ -24,7 +24,7 @@
 
 1. Open RuneLite.
 2. Open the **Plugin Hub** panel on the right sidebar.
-3. Search for **ClanKickProtector**.
+3. Search for **FC Boot Protector**.
 4. Click **Install**.
 
 ---
@@ -41,5 +41,6 @@ Have a feature request or found a glitch?
 
 * Developed by [@AbsentPlays](https://github.com/AbsentPlays)
 * Special thanks to the [RuneLite Developers](https://github.com/runelite/runelite) community.
+* Thanks to b015 for new name idea. (ClanKickProtector to FC Boot Protector)
 
 This plugin is available under the **BSD 3-Clause License** required by the RuneLite platform structure.

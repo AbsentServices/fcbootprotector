@@ -1,14 +1,14 @@
-package com.clankickprotector;
+package com.fcbootprotector;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class ClanKickProtectorPluginTest
+public class FcBootProtectorPluginTest
 {
     @SuppressWarnings("unchecked")
     public static void main(String[] args) throws Exception
     {
-        ExternalPluginManager.loadBuiltin(ClanKickProtectorPlugin.class);
+        ExternalPluginManager.loadBuiltin(FcBootProtectorPlugin.class);
         RuneLite.main(args);
     }
 }
