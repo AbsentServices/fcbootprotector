@@ -3,10 +3,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Run ClanKickProtectorPluginTest",
+            "name": "Launch FcBootProtector",
             "request": "launch",
-            "mainClass": "com.ClanKickProtector.ClanKickProtectorPluginTest",
-            "projectName": "ClanKickProtector",
+            "mainClass": "com.fcbootprotector.FcBootProtectorPluginTest",
+            "projectName": "FcBootProtector",
             "vmArgs": "-ea"
         }
     ]
