@@ -1,6 +1,6 @@
 # FC Boot Protector
 
-![Banner](images\banner.png)
+![Banner](images/banner.png)
 
 
 ***FC Boot Protector*** is a RuneLite plugin designed to prevent misclicks when moderating or hanging out in Friends Chats. It automatically filters out the "Kick" menu option unless specific criteria (like holding a modifier key) are met.
